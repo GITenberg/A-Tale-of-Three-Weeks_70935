@@ -1,11 +1,16 @@
 _repo: A-Tale-of-Three-Weeks_70935
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Thorne, Eglanton
     gutenberg_agent_id: '56000'
     url: http://www.gutenberg.org/2009/agents/56000
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70935#A-Tale-of-Three-Weeks
 gutenberg_issued: '2023-06-07'
 identifiers:
   gutenberg: '70935'
